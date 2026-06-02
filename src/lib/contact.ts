@@ -4,7 +4,7 @@ export const WHATSAPP_MESSAGE =
   "Hello Mithunesh, I visited your website and would like to discuss a project.";
 
 export const whatsappLink = (msg: string = WHATSAPP_MESSAGE) =>
-  `https://wa.me/${6382100601}?text=${encodeURIComponent(msg)}`;
+  `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(msg)}`;
 
 export const CONTACT = {
   email: "sjmithunesh@gmail.com",
