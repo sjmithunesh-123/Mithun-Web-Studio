@@ -1,0 +1,6 @@
+{
+  "outputDirectory": ".vercel/output",
+  "build": {
+    "env": {}
+  }
+}
