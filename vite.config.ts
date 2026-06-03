@@ -7,14 +7,14 @@
 import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 
 export default defineConfig({
-  // Force-enable Nitro and target Vercel so the build produces Vercel-compatible server output
+  // Target Cloudflare Pages so Nitro emits Cloudflare-compatible output
   nitro: {
-    preset: "vercel",
+    preset: "cloudflare-pages",
   },
   tanstackStart: {
     server: { entry: "server" },
     nitro: {
-      preset: "vercel",
+      preset: "cloudflare-pages",
     },
   },
 });
