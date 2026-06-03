@@ -1,0 +1,8 @@
+{
+  "compatibility_date": "2026-06-03",
+  "pages_build_output_dir": "..",
+  "name": "sjmithunesh-123-mithun-web-studio",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}

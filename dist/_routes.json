@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "include": [
+    "/*"
+  ],
+  "exclude": [
+    "/_redirects",
+    "/assets/about-Di9HqtzI.js",
+    "/assets/contact-D3q8RC-T.js",
+    "/assets/index-Dn3QwtAX.js",
+    "/assets/index-Drdbmj7z.js",
+    "/assets/portfolio-Bp0V6FhQ.js",
+    "/assets/services-CDM1cPdI.js",
+    "/assets/styles-Babz2r9w.css",
+    "/assets/testimonials-E87xjCfv.js"
+  ]
+}
